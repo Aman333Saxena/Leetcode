@@ -24,9 +24,9 @@ After making a valid submission for a problem, a blue checkmark will appear next
 - ## Disclaimer: 
   LeetCode reserves the right, in our sole discretion, to disqualify any entries where we believe a user undermines the fairness of this June's LeetCoding Challenge event, which includes, but is not limited to, copying and pasting solutions from other places directly into your submission.
 
-
-- ## Week 1: June 1st–June 7th
-- ## Week 2: June 8th–June 14th
-- ## Week 3: June 15th–June 21st
-- ## Week 4: June 22nd–June 28th
-- ## Week 5: June 29th–June 30th
+- ## Schedule: 
+   ### Week 1: June 1st–June 7th
+   ### Week 2: June 8th–June 14th
+   ### Week 3: June 15th–June 21st
+   ### Week 4: June 22nd–June 28th
+   ### Week 5: June 29th–June 30th
