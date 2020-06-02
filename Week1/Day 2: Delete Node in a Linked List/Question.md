@@ -2,10 +2,7 @@
 
 ## Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
 
-### Given linked list -- head = [4,5,1,9], which looks like following:
-
-
-https://assets.leetcode.com/uploads/2018/12/28/237_example.png
+### Given linked list -- head = [4,5,1,9], which looks like following: [Linked List](https://assets.leetcode.com/uploads/2018/12/28/237_example.png)
  
 
 ## Example 1:
